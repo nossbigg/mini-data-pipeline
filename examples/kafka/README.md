@@ -1,0 +1,1 @@
+Using [kafka-python](https://github.com/dpkp/kafka-python) for python library to connect to Kafka instance
