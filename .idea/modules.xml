@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/mini-data-pipeline.iml" filepath="$PROJECT_DIR$/mini-data-pipeline.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mini-data-pipeline_main.iml" filepath="$PROJECT_DIR$/.idea/modules/mini-data-pipeline_main.iml" group="mini-data-pipeline" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mini-data-pipeline_test.iml" filepath="$PROJECT_DIR$/.idea/modules/mini-data-pipeline_test.iml" group="mini-data-pipeline" />
     </modules>
   </component>
 </project>
