@@ -12,7 +12,7 @@ A quick way to deploy a mini data pipeline
 - Hadoop: [sequenceiq](https://hub.docker.com/r/sequenceiq/spark/)
     - Comes installed with Spark binaries for experimentation
 - Kafka: [wurstmeister](https://hub.docker.com/r/wurstmeister/kafka/)
-- Spark: [gettyimages](https://hub.docker.com/r/gettyimages/spark/)
+- Spark: [p7hb](https://hub.docker.com/r/p7hb/docker-spark/)
 - Zookeeper:  [Apache](https://hub.docker.com/_/zookeeper/)
 
 ## Ports
@@ -25,6 +25,9 @@ A quick way to deploy a mini data pipeline
     - 9092
 - Spark
     - 8080: Spark Web UI
+    - 7077: Job endpoint
+- Spark (Slave)
+    - 8081: Web UI
 - Zookeeper
     - 2181: For clients (eg. Kafka) to connect to
     
